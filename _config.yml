@@ -1,0 +1,85 @@
+name: General Anaesthetic Dentist
+analytics:
+  google: UA-84565345-1
+purpose:
+  - type: contact
+    url: 'mailto:info@ckdental.co.uk'
+    label: Email us
+  - type: external
+    url: 'https://goo.gl/forms/yqDkIUW1MJqK5Rso1'
+    label: Quick Enquiry
+github: true
+description: General Anaesthetic for dental procedures
+author:
+  name: ck dental
+  url: 'http//:ckdental.co.uk'
+  email: info@ckdental.co.uk
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+navigation:
+  - id: 946c355f-df0d-4330-b5c3-88aae96de02e
+    name: Which Dental Procedures can be carried out under General Anaesthetic ?
+    type: content
+  - id: 1af0721c-1dcf-4c57-8c4d-56a07e16ddc1
+    name: Alternative Options
+    type: content
+  - id: 8f168c7e-3d6d-490d-94e1-a9ba0f434771
+    name: What to expect from the procedure
+    type: content
+  - id: f5b62d4f-8186-437f-98c3-692d944adcae
+    name: Private Hospital environment
+    type: content
+  - id: b6096b54-d4cd-4f4a-9665-48e5f5b3838f
+    name: Why use General Anaesthetic in Dentistry ?
+    type: content
+  - id: 355e5245-0b51-4fe5-958d-741c0760357e
+    name: Our location
+    type: content
+  - id: 773ef508-869b-4638-98d8-006c4dc847d5
+    name: Team
+    type: content
+  - id: 6586d802-3915-4a35-92b1-b873af40b5c9
+    name: Our unique Service and Promise
+    type: content
+  - id: 02cfb089-ca06-43ac-adf3-df5ed4aa5833
+    name: Full mouth rehabilitation explained
+    type: content
+  - id: 995dca86-ace5-41c8-abcf-cd160c492aa8
+    name: Planning your Appointment and things to know ?
+    type: content
+  - id: 50ff1529-d281-4c56-81cf-e104888b54ff
+    name: How does General Anaesthetic work ?
+    type: content
+  - id: ba86187e-4df7-47dd-968f-f10825d6bb58
+    name: Price Promise
+    type: content
+layout_spectrum: 0.5433052982255301
+color:
+  lightness: 0.7581116830962388
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  saturation: 0.7345648623986335
+  brandStrength: 0.2803650437943674
+  rhythmicContrast: 0.8341429360655348
+content_rating:
+  adult: false
+typography_spectrum: 0.5487490694984647
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a3de0e-e83d-464d-b2c4-55d6d318d210.jpg
+title: General Anaesthetic Dentistry
