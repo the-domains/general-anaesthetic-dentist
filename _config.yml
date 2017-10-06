@@ -20,12 +20,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 navigation:
   - id: 946c355f-df0d-4330-b5c3-88aae96de02e
